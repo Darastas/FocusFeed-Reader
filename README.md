@@ -10,23 +10,25 @@
 
 | 平台 | 版本 | 安装包 | 大小 |
 | --- | --- | --- | --- |
-| Windows x64 | 安装版 | [下载 EXE](https://focusfeed-site.pages.dev/download/FocusFeed_0.1.6_x64-setup.exe) | 10.2 MiB |
-| Windows x64 | 便携版 | [下载 EXE](https://focusfeed-site.pages.dev/download/FocusFeed_v0.1.6.exe) | 34.0 MiB |
-| Android ARM64 | 安装包 | [下载 APK](https://focusfeed-site.pages.dev/download/FocusFeed_v0.1.6_arm64.apk) | 43.8 MiB |
+| Windows x64 | 安装版 | [下载 EXE](https://focusfeed-site.pages.dev/download/FocusFeed_0.1.6_x64-setup.exe?rev=1065B7B3E74C1078) | 10.2 MiB |
+| Windows x64 | 便携版 | [下载 EXE](https://focusfeed-site.pages.dev/download/FocusFeed_v0.1.6.exe?rev=98485C7F5ECBEA1D) | 34.0 MiB |
+| Android ARM64 | 安装包 | [下载 APK](https://focusfeed-site.pages.dev/download/FocusFeed_v0.1.6_arm64.apk?rev=68653228D9586408) | 43.8 MiB |
 
 安装包由 Cloudflare 提供下载。这个仓库用于发布软件介绍、下载入口与使用说明。
 
 ### 文件校验（SHA-256）
 
 ```text
-FocusFeed_0.1.6_x64-setup.exe  4CD301A557DDE5A7F22332831192C69C86F3E7A08599B7362AEA85BEB68E0529
-FocusFeed_v0.1.6.exe          13A4087BA4524DBD1BEBB0EBD9A9BB365CB3E09530554912455B29603363C20E
-FocusFeed_v0.1.6_arm64.apk    14BB9C418A4EFCF3DFAD17FDB5845D463025F2E320D40F84DD2444A8888B4FC1
+FocusFeed_0.1.6_x64-setup.exe  1065B7B3E74C107828E119D435FD033B05FBABE3568DBC41963496F1C331202C
+FocusFeed_v0.1.6.exe          98485C7F5ECBEA1D795575FCE46660A7DAE1A85F43616A386ECB0F437317A809
+FocusFeed_v0.1.6_arm64.apk    68653228D95864089E69939665453D0E8FF4E8EA4CD8050943E1D3593D8880C8
 ```
 
 Windows 安装包尚未进行代码签名，系统可能提示“未知发布者”。Android 版仅适用于 ARM64 设备。
 
 ## 0.1.6 更新
+
+0.1.6 修正版已修复 Tiny Tiny RSS 正文与订阅失败提示，以及 Miniflux Fever 的订阅和分组同步。已连接真实服务验证文章分页、已读 / 收藏回传和断网补传；下载与校验值对应修正版。
 
 - **RSS 账户同步**：接入 FreshRSS、Miniflux、Tiny Tiny RSS、Google Reader 兼容 API 和 Fever API，支持订阅、分组、文章与已读 / 收藏状态同步。
 - **离线操作补传**：离线时的已读与收藏变更保存在本机，联网同步时自动补传，失败后可重试。
