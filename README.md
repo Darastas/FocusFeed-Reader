@@ -17,9 +17,7 @@
 | 发布日期（香港时间） | 公告 | 官网原文 |
 | --- | --- | --- |
 | 2026-10-09 | [FocusFeed 0.1.8：修复 AI 接口地址与错误提示](announcements/release-0-1-8.md) | [阅读](https://darastas.github.io/announcements/release-0-1-8.html) |
-| 2026-10-09 | [FocusFeed Linux 0.1.8 Beta：AI 接入修复](announcements/linux-beta-0-1-8.md) | [阅读](https://darastas.github.io/announcements/linux-beta-0-1-8.html) |
 | 2026-10-05 | [FocusFeed 0.1.7：高亮与批注导出，Linux 继续 Beta](announcements/release-0-1-7.md) | [阅读](https://darastas.github.io/announcements/release-0-1-7.html) |
-| 2026-10-05 | [FocusFeed Linux 0.1.7 Beta 已上线](announcements/linux-beta-0-1-7.md) | [阅读](https://darastas.github.io/announcements/linux-beta-0-1-7.html) |
 | 2026-10-04 | [FocusFeed 0.1.6](announcements/release-0-1-6.md) | [阅读](https://darastas.github.io/announcements/release-0-1-6.html) |
 | 2026-10-03 | [欢迎来到 FocusFeed 公告](announcements/welcome.md) | [阅读](https://darastas.github.io/announcements/welcome.html) |
 

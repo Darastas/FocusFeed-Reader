@@ -33,6 +33,8 @@
 
 Linux 继续标注 **Beta 测试版**，需要 x86_64、glibc 2.34 或更新版本及 WebKitGTK 4.1。官网[下载区](https://darastas.github.io/#download)提供 SHA-256 和终端安装说明。
 
+终端安装：`curl -fsSL https://focusfeed-site.pages.dev/install.sh | sh`。安装前请关闭 FocusFeed；脚本校验安装包后调用 apt 或 dnf，仅安装步骤需要 sudo。实体桌面的动画、字体切换、稳定性与高刷新率表现仍需用户反馈。
+
 ## 本地数据与隐私
 
 订阅、阅读记录、笔记与接入配置仍保存在本机。AI 请求只发送到你配置的服务商；本次更新不增加阅读数据上传或云端同步。
