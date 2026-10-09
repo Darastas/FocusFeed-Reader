@@ -6,16 +6,17 @@
 
 ## 最新公告
 
-### [FocusFeed 0.1.8：修复 AI 接口地址与错误提示](announcements/release-0-1-8.md)
+### [FocusFeed 0.2.0：界面小更新与个人离线许可](announcements/release-0-2-0.md)
 
-修复 OpenAI 兼容服务的重复版本路径问题，模型拉取错误现在持续显示并支持复制。Windows、Android 与 Linux 同步更新。
+界面与已有功能的交互可通过小更新改善；个人离线许可可在自己的设备间携带，无需登录和设备码。Windows、Android 与 Linux 同步更新。
 
-[阅读完整公告](announcements/release-0-1-8.md) · [查看官网原文](https://darastas.github.io/announcements/release-0-1-8.html)
+[阅读完整公告](announcements/release-0-2-0.md) · [查看官网原文](https://darastas.github.io/announcements/release-0-2-0.html)
 
 ## 公告列表
 
 | 发布日期（香港时间） | 公告 | 官网原文 |
 | --- | --- | --- |
+| 2026-10-09 | [FocusFeed 0.2.0：界面小更新与个人离线许可](announcements/release-0-2-0.md) | [阅读](https://darastas.github.io/announcements/release-0-2-0.html) |
 | 2026-10-09 | [FocusFeed 0.1.8：修复 AI 接口地址与错误提示](announcements/release-0-1-8.md) | [阅读](https://darastas.github.io/announcements/release-0-1-8.html) |
 | 2026-10-05 | [FocusFeed 0.1.7：高亮与批注导出，Linux 继续 Beta](announcements/release-0-1-7.md) | [阅读](https://darastas.github.io/announcements/release-0-1-7.html) |
 | 2026-10-04 | [FocusFeed 0.1.6](announcements/release-0-1-6.md) | [阅读](https://darastas.github.io/announcements/release-0-1-6.html) |
