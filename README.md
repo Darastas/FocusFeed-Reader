@@ -8,7 +8,7 @@
 
 ### [FocusFeed 0.2.1：文件夹刷新、大屏布局与安卓热更新修复](announcements/release-0-2-1.md)
 
-文件夹可单独刷新；折叠屏和平板新增显示方案与栏宽调整。Android 0.2.1 APK 修复热更新不可用的问题，整包检查更新按平台分别提供。
+文件夹可单独刷新；大屏布局与示例按尺寸切换，修复比例预览闪烁，二栏点击文章全屏阅读。Android 0.2.1 修复热更新，整包检查按平台分别提供。
 
 [阅读完整公告](announcements/release-0-2-1.md) · [查看官网原文](https://darastas.github.io/announcements/release-0-2-1.html)
 
